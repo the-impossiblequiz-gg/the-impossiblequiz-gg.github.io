@@ -1,565 +1,565 @@
 body {
- Play Online at the-impossiblequiz-gg.github.io</title>font-family: 'Poppins', sans-serif;
- Play Online at the-impossiblequiz-gg.github.io</title>color: rgba(225, 225, 225, 0.6);
+  font-family: 'Poppins', sans-serif;
+  color: rgba(225, 225, 225, 0.6);
 }
 body {
- Play Online at the-impossiblequiz-gg.github.io</title>background-color: #211328;
+  background-color: #211328;
 }
 body.login-body {
- Play Online at the-impossiblequiz-gg.github.io</title>background-color: #211328;
+  background-color: #211328;
 }
 img {
- Play Online at the-impossiblequiz-gg.github.io</title>max-width: 100%;
- Play Online at the-impossiblequiz-gg.github.io</title>height: auto;
+  max-width: 100%;
+  height: auto;
 }
 a:link {
- Play Online at the-impossiblequiz-gg.github.io</title>text-decoration: none;
+  text-decoration: none;
 }
 a:visited {
- Play Online at the-impossiblequiz-gg.github.io</title>text-decoration: none;
+  text-decoration: none;
 }
 .top-nav {
- Play Online at the-impossiblequiz-gg.github.io</title>margin-bottom: 40px;
- Play Online at the-impossiblequiz-gg.github.io</title>background-color: rgba(255, 255, 255, 0.1);
- Play Online at the-impossiblequiz-gg.github.io</title>padding: 20px 0;
+  margin-bottom: 40px;
+  background-color: rgba(255, 255, 255, 0.1);
+  padding: 20px 0;
 }
 .top-nav a {
- Play Online at the-impossiblequiz-gg.github.io</title>color: #fff;
+  color: #fff;
 }
 .nav-link {
- Play Online at the-impossiblequiz-gg.github.io</title>font-weight: 500;
+  font-weight: 500;
 }
 .navbar-nav {
- Play Online at the-impossiblequiz-gg.github.io</title>margin-right: 20px;
+  margin-right: 20px;
 }
 .dropdown-menu {
- Play Online at the-impossiblequiz-gg.github.io</title>background: #3b3255;
+  background: #3b3255;
 }
 .dropdown-menu .dropdown-item {
- Play Online at the-impossiblequiz-gg.github.io</title>padding: 15px 25px;
+  padding: 15px 25px;
 }
 ul.user-links {
- Play Online at the-impossiblequiz-gg.github.io</title>background: #3b3255;
- Play Online at the-impossiblequiz-gg.github.io</title>z-index: 20;
+  background: #3b3255;
+  z-index: 20;
 }
 ul.user-links li {
- Play Online at the-impossiblequiz-gg.github.io</title>color: unset;
+  color: unset;
 }
 .search-bar {
- Play Online at the-impossiblequiz-gg.github.io</title>max-width: 200px;
- Play Online at the-impossiblequiz-gg.github.io</title>margin-left: auto;
- Play Online at the-impossiblequiz-gg.github.io</title>position: relative;
+  max-width: 200px;
+  margin-left: auto;
+  position: relative;
 }
 .search-bar input.search {
- Play Online at the-impossiblequiz-gg.github.io</title>text-indent: 28px;
- Play Online at the-impossiblequiz-gg.github.io</title>background: rgba(255, 255, 255, 0.1);
- Play Online at the-impossiblequiz-gg.github.io</title>border-radius: 25px!important;
- Play Online at the-impossiblequiz-gg.github.io</title>border: none;
- Play Online at the-impossiblequiz-gg.github.io</title>height: 50px;
- Play Online at the-impossiblequiz-gg.github.io</title>margin-bottom: 0;
+  text-indent: 28px;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 25px!important;
+  border: none;
+  height: 50px;
+  margin-bottom: 0;
 }
 .search-bar .bi-search {
- Play Online at the-impossiblequiz-gg.github.io</title>position: absolute;
- Play Online at the-impossiblequiz-gg.github.io</title>color: #fff;
- Play Online at the-impossiblequiz-gg.github.io</title>top: 14px;
- Play Online at the-impossiblequiz-gg.github.io</title>left: 15px;
+  position: absolute;
+  color: #fff;
+  top: 14px;
+  left: 15px;
 }
 .search-bar .form-control::placeholder {
- Play Online at the-impossiblequiz-gg.github.io</title>color: #fff;
- Play Online at the-impossiblequiz-gg.github.io</title>opacity: 0.5;
+  color: #fff;
+  opacity: 0.5;
 }
 .category-description {
- Play Online at the-impossiblequiz-gg.github.io</title>padding: 20px;
- Play Online at the-impossiblequiz-gg.github.io</title>margin: 20px 0;
- Play Online at the-impossiblequiz-gg.github.io</title>background: rgba(255, 255, 255, 0.1);
- Play Online at the-impossiblequiz-gg.github.io</title>border-left-width: 5px;
- Play Online at the-impossiblequiz-gg.github.io</title>border-radius: 3px;
- Play Online at the-impossiblequiz-gg.github.io</title>border-left-color: #5bc0de;
- Play Online at the-impossiblequiz-gg.github.io</title>margin-bottom: 40px;
+  padding: 20px;
+  margin: 20px 0;
+  background: rgba(255, 255, 255, 0.1);
+  border-left-width: 5px;
+  border-radius: 3px;
+  border-left-color: #5bc0de;
+  margin-bottom: 40px;
 }
 .pagination-wrapper {
- Play Online at the-impossiblequiz-gg.github.io</title>margin-top: 20px;
+  margin-top: 20px;
 }
 .pagination .page-link {
- Play Online at the-impossiblequiz-gg.github.io</title>background: #7f598e;
- Play Online at the-impossiblequiz-gg.github.io</title>color: #fff;
- Play Online at the-impossiblequiz-gg.github.io</title>border: 0;
- Play Online at the-impossiblequiz-gg.github.io</title>padding: 10px 18px;
+  background: #7f598e;
+  color: #fff;
+  border: 0;
+  padding: 10px 18px;
 }
 .page-link:hover {
- Play Online at the-impossiblequiz-gg.github.io</title>background: #574260;
+  background: #574260;
 }
 .pagination .disabled .page-link {
- Play Online at the-impossiblequiz-gg.github.io</title>background: #503759;
+  background: #503759;
 }
 .single-title, .page-title {
- Play Online at the-impossiblequiz-gg.github.io</title>font-size: calc(1.3rem + .6vw);
- Play Online at the-impossiblequiz-gg.github.io</title>color: #fff;
+  font-size: calc(1.3rem + .6vw);
+  color: #fff;
 }
 .item-title {
- Play Online at the-impossiblequiz-gg.github.io</title>color: #fff;
- Play Online at the-impossiblequiz-gg.github.io</title>margin-bottom: 30px;
+  color: #fff;
+  margin-bottom: 30px;
 }
 .section-title {
- Play Online at the-impossiblequiz-gg.github.io</title>margin-bottom: 30px;
- Play Online at the-impossiblequiz-gg.github.io</title>color: #fff;
- Play Online at the-impossiblequiz-gg.github.io</title>font-weight: bold;
+  margin-bottom: 30px;
+  color: #fff;
+  font-weight: bold;
 }
 .grid-container {
- Play Online at the-impossiblequiz-gg.github.io</title>margin-top: 15px;
- Play Online at the-impossiblequiz-gg.github.io</title>margin-bottom: 15px;
+  margin-top: 15px;
+  margin-bottom: 15px;
 }
 .img-rounded {
- Play Online at the-impossiblequiz-gg.github.io</title>border-radius: 20%;
+  border-radius: 20%;
 }
 .small-thumb {
- Play Online at the-impossiblequiz-gg.github.io</title>width: 100%;
+  width: 100%;
 }
 .list-info {
- Play Online at the-impossiblequiz-gg.github.io</title>color: rgba(255, 255, 255, 0.5);
+  color: rgba(255, 255, 255, 0.5);
 }
 .list-title {
- Play Online at the-impossiblequiz-gg.github.io</title>color: #fff;
- Play Online at the-impossiblequiz-gg.github.io</title>white-space: nowrap;
- Play Online at the-impossiblequiz-gg.github.io</title>text-overflow: ellipsis;
- Play Online at the-impossiblequiz-gg.github.io</title>overflow: hidden;
+  color: #fff;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
 }
 .list-category {
- Play Online at the-impossiblequiz-gg.github.io</title>white-space: nowrap;
- Play Online at the-impossiblequiz-gg.github.io</title>text-overflow: ellipsis;
- Play Online at the-impossiblequiz-gg.github.io</title>overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
 }
 .text-ellipsis {
- Play Online at the-impossiblequiz-gg.github.io</title>white-space: nowrap;
- Play Online at the-impossiblequiz-gg.github.io</title>text-overflow: ellipsis;
- Play Online at the-impossiblequiz-gg.github.io</title>overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
 }
 .game-tag-list {
- Play Online at the-impossiblequiz-gg.github.io</title>display: flex;
- Play Online at the-impossiblequiz-gg.github.io</title>flex-wrap: wrap;
+  display: flex;
+  flex-wrap: wrap;
 }
 .tag-item {
- Play Online at the-impossiblequiz-gg.github.io</title>padding: 4px 14px;
- Play Online at the-impossiblequiz-gg.github.io</title>background: rgba(255, 255, 255, 0.1);
- Play Online at the-impossiblequiz-gg.github.io</title>margin-right: 8px;
- Play Online at the-impossiblequiz-gg.github.io</title>margin-top: 8px;
- Play Online at the-impossiblequiz-gg.github.io</title>border-radius: 8px;
- Play Online at the-impossiblequiz-gg.github.io</title>color: #fff;
+  padding: 4px 14px;
+  background: rgba(255, 255, 255, 0.1);
+  margin-right: 8px;
+  margin-top: 8px;
+  border-radius: 8px;
+  color: #fff;
 }
 .game-item {
- Play Online at the-impossiblequiz-gg.github.io</title>display: flex;
- Play Online at the-impossiblequiz-gg.github.io</title>flex-wrap: wrap;
+  display: flex;
+  flex-wrap: wrap;
 }
 .grid-2 .game-item:hover, .grid-3 .game-item:hover, .list-vertical:hover {
- Play Online at the-impossiblequiz-gg.github.io</title>background: rgba(255, 255, 255, 0.1);
- Play Online at the-impossiblequiz-gg.github.io</title>border-radius: 20px;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 20px;
 }
 .list-game {
- Play Online at the-impossiblequiz-gg.github.io</title>width: 100%;
+  width: 100%;
 }
 .list-game-x:hover {
- Play Online at the-impossiblequiz-gg.github.io</title>padding: 10px;
- Play Online at the-impossiblequiz-gg.github.io</title>background-color: #eef0f2;
- Play Online at the-impossiblequiz-gg.github.io</title>border-radius: 10px;
- Play Online at the-impossiblequiz-gg.github.io</title>scale: 1.2;
+  padding: 10px;
+  background-color: #eef0f2;
+  border-radius: 10px;
+  scale: 1.2;
 }
 .list-rating {
- Play Online at the-impossiblequiz-gg.github.io</title>font-size: 14px;
+  font-size: 14px;
 }
 .gamelist-vertical-widget .list-thumbnail {
- Play Online at the-impossiblequiz-gg.github.io</title>max-width: 80px;
- Play Online at the-impossiblequiz-gg.github.io</title>float: left;
- Play Online at the-impossiblequiz-gg.github.io</title>margin-right: 15px;
+  max-width: 80px;
+  float: left;
+  margin-right: 15px;
 }
 .grid-1 .list-game {
- Play Online at the-impossiblequiz-gg.github.io</title>margin-bottom: 40px;
+  margin-bottom: 40px;
 }
 .grid-1 .list-info {
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>overflow: hidden;
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>margin: 0.35714em;
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>color: #fff;
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>text-overflow: ellipsis;
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>white-space: nowrap;
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>text-align: center;
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>position: relative;
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>bottom: 65px;
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>margin-bottom: -53px;
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>opacity: 0;
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>font-weight: 700;
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>font-size: 18px;
+    overflow: hidden;
+    margin: 0.35714em;
+    color: #fff;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    text-align: center;
+    position: relative;
+    bottom: 65px;
+    margin-bottom: -53px;
+    opacity: 0;
+    font-weight: 700;
+    font-size: 18px;
 }
 .grid-2 {
- Play Online at the-impossiblequiz-gg.github.io</title>margin-bottom: 20px;
+  margin-bottom: 20px;
 }
 .grid-2 .list-thumbnail {
- Play Online at the-impossiblequiz-gg.github.io</title>max-width: 100px;
- Play Online at the-impossiblequiz-gg.github.io</title>float: left;
- Play Online at the-impossiblequiz-gg.github.io</title>margin-right: 15px;
+  max-width: 100px;
+  float: left;
+  margin-right: 15px;
 }
 .grid-2 .list-title {
- Play Online at the-impossiblequiz-gg.github.io</title>font-size: 20px;
- Play Online at the-impossiblequiz-gg.github.io</title>font-weight: 500;
+  font-size: 20px;
+  font-weight: 500;
 }
 .grid-3 .list-game {
- Play Online at the-impossiblequiz-gg.github.io</title>background: Play Online at the-impossiblequiz-gg.github.io</title>rgba(225, 225, 225, 0.15);
- Play Online at the-impossiblequiz-gg.github.io</title>border-radius: 15px;
+  background:  rgba(225, 225, 225, 0.15);
+  border-radius: 15px;
 }
 .grid-3 .list-thumbnail {
- Play Online at the-impossiblequiz-gg.github.io</title>overflow: hidden;
- Play Online at the-impossiblequiz-gg.github.io</title>margin: 0;
+  overflow: hidden;
+  margin: 0;
 }
 .grid-3 .list-title {
- Play Online at the-impossiblequiz-gg.github.io</title>font-size: 18px;
- Play Online at the-impossiblequiz-gg.github.io</title>font-weight: 500;
+  font-size: 18px;
+  font-weight: 500;
 }
 .grid-3 .list-category, .gamelist-vertical-widget .list-category {
- Play Online at the-impossiblequiz-gg.github.io</title>font-style: italic;
- Play Online at the-impossiblequiz-gg.github.io</title>opacity: 0.7;
+  font-style: italic;
+  opacity: 0.7;
 }
 .grid-3 .list-game {
- Play Online at the-impossiblequiz-gg.github.io</title>overflow: hidden;
+  overflow: hidden;
 }
 .grid-3 .list-info {
- Play Online at the-impossiblequiz-gg.github.io</title>padding: 10px;
+  padding: 10px;
 }
 .grid-3 {
- Play Online at the-impossiblequiz-gg.github.io</title>margin-bottom: 20px;
+  margin-bottom: 20px;
 }
 @media(hover: hover) and (pointer: fine) {
- Play Online at the-impossiblequiz-gg.github.io</title>.grid-1 .list-game:hover > .list-info {
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>opacity: 1;
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>transition: all 0.5s ease;
- Play Online at the-impossiblequiz-gg.github.io</title>}
- Play Online at the-impossiblequiz-gg.github.io</title>.list-thumbnail:hover {
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>opacity: 0.5;
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>transition: all 0.5s ease;
- Play Online at the-impossiblequiz-gg.github.io</title>}
+  .grid-1 .list-game:hover > .list-info {
+    opacity: 1;
+    transition: all 0.5s ease;
+  }
+  .list-thumbnail:hover {
+    opacity: 0.5;
+    transition: all 0.5s ease;
+  }
 }
 .list-1 .list-thumbnail {
- Play Online at the-impossiblequiz-gg.github.io</title>max-width: 90px;
- Play Online at the-impossiblequiz-gg.github.io</title>margin-right: 15px;
+  max-width: 90px;
+  margin-right: 15px;
 }
 .list-1 .list-thumbnail img {
- Play Online at the-impossiblequiz-gg.github.io</title>border-radius: 50%;
+  border-radius: 50%;
 }
 .row-list-1 {
- Play Online at the-impossiblequiz-gg.github.io</title>position: relative;
+  position: relative;
 }
 .list-1-wrapper {
- Play Online at the-impossiblequiz-gg.github.io</title>display: block;
- Play Online at the-impossiblequiz-gg.github.io</title>white-space: nowrap;
- Play Online at the-impossiblequiz-gg.github.io</title>overflow: hidden;
- Play Online at the-impossiblequiz-gg.github.io</title>padding-left: 70px;
+  display: block;
+  white-space: nowrap;
+  overflow: hidden;
+  padding-left: 70px;
 }
 .list-1-wrapper .game-item {
- Play Online at the-impossiblequiz-gg.github.io</title>display: inline-block;
- Play Online at the-impossiblequiz-gg.github.io</title>text-align: center;
+  display: inline-block;
+  text-align: center;
 }
 .footer {
- Play Online at the-impossiblequiz-gg.github.io</title>padding: 40px 0;
+  padding: 40px 0;
 }
 .border-line {
- Play Online at the-impossiblequiz-gg.github.io</title>border-top: 1px solid rgba(255, 255, 255, 0.2);
+  border-top: 1px solid rgba(255, 255, 255, 0.2);
 }
 .dsb-panel {
- Play Online at the-impossiblequiz-gg.github.io</title>float: right;
+  float: right;
 }
 .footer-copyright {
- Play Online at the-impossiblequiz-gg.github.io</title>background: rgba(0, 0, 0, 0.4);
+  background: rgba(0, 0, 0, 0.4);
 }
 .header-area {
- Play Online at the-impossiblequiz-gg.github.io</title>margin-bottom: 40px;
- Play Online at the-impossiblequiz-gg.github.io</title>border-radius: 20px;
- Play Online at the-impossiblequiz-gg.github.io</title>padding: 40px;
- Play Online at the-impossiblequiz-gg.github.io</title>text-align: center;
+  margin-bottom: 40px;
+  border-radius: 20px;
+  padding: 40px;
+  text-align: center;
 }
 .masthead-title {
- Play Online at the-impossiblequiz-gg.github.io</title>color: #fff;
+  color: #fff;
 }
 .masthead-description {
- Play Online at the-impossiblequiz-gg.github.io</title>max-width: 800px;
- Play Online at the-impossiblequiz-gg.github.io</title>margin: 0 auto;
+  max-width: 800px;
+  margin: 0 auto;
 }
 .masthead-description h3 {
- Play Online at the-impossiblequiz-gg.github.io</title>font-size: 20px;
+  font-size: 20px;
 }
 ul.list-categories {
- Play Online at the-impossiblequiz-gg.github.io</title>list-style: none;
- Play Online at the-impossiblequiz-gg.github.io</title>display: flex;
- Play Online at the-impossiblequiz-gg.github.io</title>flex-wrap: wrap;
- Play Online at the-impossiblequiz-gg.github.io</title>padding-left: 0;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  padding-left: 0;
 }
 ul.list-categories li {
- Play Online at the-impossiblequiz-gg.github.io</title>padding: 10px 15px;
- Play Online at the-impossiblequiz-gg.github.io</title>background-color: #c9d2d5;
- Play Online at the-impossiblequiz-gg.github.io</title>border-radius: 15px;
- Play Online at the-impossiblequiz-gg.github.io</title>margin-right: 12px;
- Play Online at the-impossiblequiz-gg.github.io</title>margin-bottom: 16px;
- Play Online at the-impossiblequiz-gg.github.io</title>color: #fff;
+  padding: 10px 15px;
+  background-color: #c9d2d5;
+  border-radius: 15px;
+  margin-right: 12px;
+  margin-bottom: 16px;
+  color: #fff;
 }
 .widget .category-wrapper {
- Play Online at the-impossiblequiz-gg.github.io</title>float: none;
- Play Online at the-impossiblequiz-gg.github.io</title>margin-right: 0;
+  float: none;
+  margin-right: 0;
 }
 .widget ul.category-item {
- Play Online at the-impossiblequiz-gg.github.io</title>width: 100%;
- Play Online at the-impossiblequiz-gg.github.io</title>list-style: none;
- Play Online at the-impossiblequiz-gg.github.io</title>padding-left: 0;
+  width: 100%;
+  list-style: none;
+  padding-left: 0;
 }
 .category-item li {
- Play Online at the-impossiblequiz-gg.github.io</title>color: #fff;
- Play Online at the-impossiblequiz-gg.github.io</title>font-weight: bold;
- Play Online at the-impossiblequiz-gg.github.io</title>border-radius: 8px;
+  color: #fff;
+  font-weight: bold;
+  border-radius: 8px;
 }
 .category-item li:hover {
- Play Online at the-impossiblequiz-gg.github.io</title>background: rgba(255, 255, 255, 0.15);
+  background: rgba(255, 255, 255, 0.15);
 }
 ul.category-list-wrapper {
- Play Online at the-impossiblequiz-gg.github.io</title>list-style: none;
- Play Online at the-impossiblequiz-gg.github.io</title>padding-left: 0;
- Play Online at the-impossiblequiz-gg.github.io</title>display: flex;
- Play Online at the-impossiblequiz-gg.github.io</title>flex-wrap: wrap;
- Play Online at the-impossiblequiz-gg.github.io</title>justify-content: center;
+  list-style: none;
+  padding-left: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 ul.category-list-wrapper .cat-item {
- Play Online at the-impossiblequiz-gg.github.io</title>padding: 5px 10px;
- Play Online at the-impossiblequiz-gg.github.io</title>border-radius: 15px;
- Play Online at the-impossiblequiz-gg.github.io</title>margin-right: 20px;
- Play Online at the-impossiblequiz-gg.github.io</title>margin-bottom: 16px;
- Play Online at the-impossiblequiz-gg.github.io</title>width: 155px;
- Play Online at the-impossiblequiz-gg.github.io</title>color: #4f5053;
- Play Online at the-impossiblequiz-gg.github.io</title>white-space: nowrap;
- Play Online at the-impossiblequiz-gg.github.io</title>text-overflow: ellipsis;
- Play Online at the-impossiblequiz-gg.github.io</title>overflow: hidden;
+  padding: 5px 10px;
+  border-radius: 15px;
+  margin-right: 20px;
+  margin-bottom: 16px;
+  width: 155px;
+  color: #4f5053;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
 }
 ul.category-list-wrapper .cat-item:hover {
- Play Online at the-impossiblequiz-gg.github.io</title>background: rgba(255, 255, 255, 0.1);
+  background: rgba(255, 255, 255, 0.1);
 }
 .cat-name {
- Play Online at the-impossiblequiz-gg.github.io</title>color: #fff;
- Play Online at the-impossiblequiz-gg.github.io</title>font-weight: bold;
+  color: #fff;
+  font-weight: bold;
 }
 .cat-game-amount {
- Play Online at the-impossiblequiz-gg.github.io</title>color: rgba(255, 255, 255, 0.3);
- Play Online at the-impossiblequiz-gg.github.io</title>font-weight: normal;
+  color: rgba(255, 255, 255, 0.3);
+  font-weight: normal;
 }
 .icon-category {
- Play Online at the-impossiblequiz-gg.github.io</title>margin-right: 8px;
+  margin-right: 8px;
 }
 .category-list-global .icon-category {
- Play Online at the-impossiblequiz-gg.github.io</title>float: left;
+  float: left;
 }
 ul.category-list-game .icon-category {
- Play Online at the-impossiblequiz-gg.github.io</title>float: none;
+  float: none;
 }
 ul.category-list-game {
- Play Online at the-impossiblequiz-gg.github.io</title>list-style: none;
- Play Online at the-impossiblequiz-gg.github.io</title>padding-left: 0;
- Play Online at the-impossiblequiz-gg.github.io</title>display: flex;
- Play Online at the-impossiblequiz-gg.github.io</title>flex-wrap: wrap;
+  list-style: none;
+  padding-left: 0;
+  display: flex;
+  flex-wrap: wrap;
 }
 ul.category-list-game .cat-item {
- Play Online at the-impossiblequiz-gg.github.io</title>padding: 5px 10px;
- Play Online at the-impossiblequiz-gg.github.io</title>border-radius: 15px;
- Play Online at the-impossiblequiz-gg.github.io</title>margin-right: 20px;
- Play Online at the-impossiblequiz-gg.github.io</title>margin-bottom: 16px;
- Play Online at the-impossiblequiz-gg.github.io</title>color: #4f5053;
- Play Online at the-impossiblequiz-gg.github.io</title>white-space: nowrap;
- Play Online at the-impossiblequiz-gg.github.io</title>text-overflow: ellipsis;
- Play Online at the-impossiblequiz-gg.github.io</title>overflow: hidden;
+  padding: 5px 10px;
+  border-radius: 15px;
+  margin-right: 20px;
+  margin-bottom: 16px;
+  color: #4f5053;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
 }
 ul.category-list-game .cat-item:hover {
- Play Online at the-impossiblequiz-gg.github.io</title>background: rgba(255, 255, 255, 0.1);
+  background: rgba(255, 255, 255, 0.1);
 }
 .cat-info {
- Play Online at the-impossiblequiz-gg.github.io</title>margin-top: 5px;
- Play Online at the-impossiblequiz-gg.github.io</title>color: #fff;
- Play Online at the-impossiblequiz-gg.github.io</title>font-weight: bold;
+  margin-top: 5px;
+  color: #fff;
+  font-weight: bold;
 }
 .game-info {
- Play Online at the-impossiblequiz-gg.github.io</title>background: rgba(255, 255, 255, 0.1);
- Play Online at the-impossiblequiz-gg.github.io</title>padding: 10px 18px 18px 18px;
- Play Online at the-impossiblequiz-gg.github.io</title>display: flex;
- Play Online at the-impossiblequiz-gg.github.io</title>flex-wrap: wrap;
+  background: rgba(255, 255, 255, 0.1);
+  padding: 10px 18px 18px 18px;
+  display: flex;
+  flex-wrap: wrap;
 }
 .header-left {
- Play Online at the-impossiblequiz-gg.github.io</title>margin: 10px 0;
+  margin: 10px 0;
 }
 .header-right {
- Play Online at the-impossiblequiz-gg.github.io</title>margin-left: auto;
- Play Online at the-impossiblequiz-gg.github.io</title>text-align: right;
+  margin-left: auto;
+  text-align: right;
 }
 .header-right .btn, .header-right .social-icon {
- Play Online at the-impossiblequiz-gg.github.io</title>margin-top: 10px;
+  margin-top: 10px;
 }
 .game-iframe-container {
- Play Online at the-impossiblequiz-gg.github.io</title>position: relative;
- Play Online at the-impossiblequiz-gg.github.io</title>overflow: hidden;
- Play Online at the-impossiblequiz-gg.github.io</title>width: 100%;
- Play Online at the-impossiblequiz-gg.github.io</title>min-height: 700px;
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  min-height: 700px;
 }
 .game-iframe {
- Play Online at the-impossiblequiz-gg.github.io</title>position: absolute;
- Play Online at the-impossiblequiz-gg.github.io</title>top: 0;
- Play Online at the-impossiblequiz-gg.github.io</title>left: 0;
- Play Online at the-impossiblequiz-gg.github.io</title>bottom: 0;
- Play Online at the-impossiblequiz-gg.github.io</title>right: 0;
- Play Online at the-impossiblequiz-gg.github.io</title>width: 100%;
- Play Online at the-impossiblequiz-gg.github.io</title>height: 100%;
- Play Online at the-impossiblequiz-gg.github.io</title>z-index: 10;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 10;
 }
 .widget-title {
- Play Online at the-impossiblequiz-gg.github.io</title>margin-bottom: 20px;
- Play Online at the-impossiblequiz-gg.github.io</title>color: #fff;
+  margin-bottom: 20px;
+  color: #fff;
 }
 .btn-default {
- Play Online at the-impossiblequiz-gg.github.io</title>border: 1px solid #bdc0c1;
- Play Online at the-impossiblequiz-gg.github.io</title>background-color: #fff;
+  border: 1px solid #bdc0c1;
+  background-color: #fff;
 }
 .b-left {
- Play Online at the-impossiblequiz-gg.github.io</title>position: absolute;
- Play Online at the-impossiblequiz-gg.github.io</title>top: 20px;
+  position: absolute;
+  top: 20px;
 }
 .b-right {
- Play Online at the-impossiblequiz-gg.github.io</title>position: absolute;
- Play Online at the-impossiblequiz-gg.github.io</title>top: 20px;
- Play Online at the-impossiblequiz-gg.github.io</title>right: 10px;
+  position: absolute;
+  top: 20px;
+  right: 10px;
 }
 .btn-primary {
- Play Online at the-impossiblequiz-gg.github.io</title>background-color: #01b6ff;
- Play Online at the-impossiblequiz-gg.github.io</title>border-color: #13a5df;
+  background-color: #01b6ff;
+  border-color: #13a5df;
 }
 @media only screen and (max-width: 992px) {
- Play Online at the-impossiblequiz-gg.github.io</title>body {
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>background-size: contain;
- Play Online at the-impossiblequiz-gg.github.io</title>}
- Play Online at the-impossiblequiz-gg.github.io</title>.search-bar {
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>max-width: 100%;
- Play Online at the-impossiblequiz-gg.github.io</title>}
- Play Online at the-impossiblequiz-gg.github.io</title>.nav-item Play Online at the-impossiblequiz-gg.github.io</title>{
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>padding: 10px;
- Play Online at the-impossiblequiz-gg.github.io</title>}
+  body {
+    background-size: contain;
+  }
+  .search-bar {
+    max-width: 100%;
+  }
+  .nav-item  {
+    padding: 10px;
+  }
 }
 @media only screen and (max-width: 640px) {
- Play Online at the-impossiblequiz-gg.github.io</title>.top-user {
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>width: 80px;
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>margin: 10px;
- Play Online at the-impossiblequiz-gg.github.io</title>}
- Play Online at the-impossiblequiz-gg.github.io</title>.leaderboard-cell.user-xp {
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>margin-top: 12px;
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>position: absolute;
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>right: 20px;
- Play Online at the-impossiblequiz-gg.github.io</title>}
- Play Online at the-impossiblequiz-gg.github.io</title>.leaderboard-cell.rank {
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>display: none;
- Play Online at the-impossiblequiz-gg.github.io</title>}
- Play Online at the-impossiblequiz-gg.github.io</title>.post-media .post-thumb {
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>float: none;
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>overflow: unset;
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>margin-left: 0;
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>margin-bottom: 20px;
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>width: unset;
- Play Online at the-impossiblequiz-gg.github.io</title>}
- Play Online at the-impossiblequiz-gg.github.io</title>.post-media .post-thumb img {
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>width: 100%;
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>height: auto;
- Play Online at the-impossiblequiz-gg.github.io</title>}
+  .top-user {
+      width: 80px;
+      margin: 10px;
+  }
+  .leaderboard-cell.user-xp {
+    margin-top: 12px;
+    position: absolute;
+    right: 20px;
+  }
+  .leaderboard-cell.rank {
+    display: none;
+  }
+  .post-media .post-thumb {
+    float: none;
+    overflow: unset;
+    margin-left: 0;
+    margin-bottom: 20px;
+    width: unset;
+  }
+  .post-media .post-thumb img {
+    width: 100%;
+    height: auto;
+  }
 }
- Play Online at the-impossiblequiz-gg.github.io</title>
+  
 .dropdown-icon {
- Play Online at the-impossiblequiz-gg.github.io</title>display: inline-block;
- Play Online at the-impossiblequiz-gg.github.io</title>margin-left: .455em;
- Play Online at the-impossiblequiz-gg.github.io</title>vertical-align: .255em;
- Play Online at the-impossiblequiz-gg.github.io</title>content: "";
- Play Online at the-impossiblequiz-gg.github.io</title>border-top: .3em solid;
- Play Online at the-impossiblequiz-gg.github.io</title>border-right: .3em solid transparent;
- Play Online at the-impossiblequiz-gg.github.io</title>border-bottom: 0;
- Play Online at the-impossiblequiz-gg.github.io</title>border-left: .3em solid transparent;
+  display: inline-block;
+  margin-left: .455em;
+  vertical-align: .255em;
+  content: "";
+  border-top: .3em solid;
+  border-right: .3em solid transparent;
+  border-bottom: 0;
+  border-left: .3em solid transparent;
 }
 .btn-load-more {
- Play Online at the-impossiblequiz-gg.github.io</title>background: rgba(255, 255, 255, 0.1);
- Play Online at the-impossiblequiz-gg.github.io</title>color: #fff;
- Play Online at the-impossiblequiz-gg.github.io</title>padding: 14px 50px;
- Play Online at the-impossiblequiz-gg.github.io</title>border-radius: 40px;
+  background: rgba(255, 255, 255, 0.1);
+  color: #fff;
+  padding: 14px 50px;
+  border-radius: 40px;
 }
 .b-load-more {
- Play Online at the-impossiblequiz-gg.github.io</title>margin-bottom: 40px;
+  margin-bottom: 40px;
 }
 .btn-load-more:hover {
- Play Online at the-impossiblequiz-gg.github.io</title>background: rgba(255, 255, 255, 0.05);
+  background: rgba(255, 255, 255, 0.05);
 }
 .header-right .btn-capsule, .header-right .btn-share {
- Play Online at the-impossiblequiz-gg.github.io</title>margin-left: 10px;
+  margin-left: 10px;
 }
 .btn-circle {
- Play Online at the-impossiblequiz-gg.github.io</title>background: rgba(255, 255, 255, 0.4);
- Play Online at the-impossiblequiz-gg.github.io</title>padding: 10px 15px;
- Play Online at the-impossiblequiz-gg.github.io</title>color: #fff;
- Play Online at the-impossiblequiz-gg.github.io</title>border-radius: 40px;
+  background: rgba(255, 255, 255, 0.4);
+  padding: 10px 15px;
+  color: #fff;
+  border-radius: 40px;
 }
 .btn-capsule {
- Play Online at the-impossiblequiz-gg.github.io</title>background: rgba(255, 255, 255, 0.1);
- Play Online at the-impossiblequiz-gg.github.io</title>padding: 10px 20px;
- Play Online at the-impossiblequiz-gg.github.io</title>color: #fff;
- Play Online at the-impossiblequiz-gg.github.io</title>border-radius: 40px;
+  background: rgba(255, 255, 255, 0.1);
+  padding: 10px 20px;
+  color: #fff;
+  border-radius: 40px;
 }
 .btn-capsule:hover, .btn-capsule.active, .btn-circle:hover {
- Play Online at the-impossiblequiz-gg.github.io</title>background: rgba(255, 255, 255, 0.5);
+  background: rgba(255, 255, 255, 0.5);
 }
 .b-white {
- Play Online at the-impossiblequiz-gg.github.io</title>background: #fff;
- Play Online at the-impossiblequiz-gg.github.io</title>color: #000000;
- Play Online at the-impossiblequiz-gg.github.io</title>font-size: 18px;
+  background: #fff;
+  color: #000000;
+  font-size: 18px;
 }
 .b-login {
- Play Online at the-impossiblequiz-gg.github.io</title>margin-left: 10px;
+  margin-left: 10px;
 }
 .star-on {
- Play Online at the-impossiblequiz-gg.github.io</title>color: #FFA73F;
- Play Online at the-impossiblequiz-gg.github.io</title>margin-right: 4px;
+  color: #FFA73F;
+  margin-right: 4px;
 }
 .star-off {
- Play Online at the-impossiblequiz-gg.github.io</title>color: #5C5B5F;
- Play Online at the-impossiblequiz-gg.github.io</title>margin-right: 4px;
+  color: #5C5B5F;
+  margin-right: 4px;
 }
 .b-icon {
- Play Online at the-impossiblequiz-gg.github.io</title>margin-right: 8px;
+  margin-right: 8px;
 }
 .content-wrapper {
- Play Online at the-impossiblequiz-gg.github.io</title>margin-top: 40px;
+  margin-top: 40px;
 }
 .highlight-text {
- Play Online at the-impossiblequiz-gg.github.io</title>color: #fff;
+  color: #fff;
 }
 .list-vertical {
- Play Online at the-impossiblequiz-gg.github.io</title>margin-bottom: 20px;
+  margin-bottom: 20px;
 }
 
 /* COMMENTS */
 
 .jquery-comments .textarea-wrapper .textarea {
- Play Online at the-impossiblequiz-gg.github.io</title>background: rgba(255, 255, 255, 0.1);
- Play Online at the-impossiblequiz-gg.github.io</title>border: 0;
- Play Online at the-impossiblequiz-gg.github.io</title>border-radius: 8px;
+  background: rgba(255, 255, 255, 0.1);
+  border: 0;
+  border-radius: 8px;
 }
 .comments-container {
- Play Online at the-impossiblequiz-gg.github.io</title>border: 0;
- Play Online at the-impossiblequiz-gg.github.io</title>border-radius: 15px;
- Play Online at the-impossiblequiz-gg.github.io</title>background: rgba(255, 255, 255, 0.1);
- Play Online at the-impossiblequiz-gg.github.io</title>margin-bottom: 30px;
+  border: 0;
+  border-radius: 15px;
+  background: rgba(255, 255, 255, 0.1);
+  margin-bottom: 30px;
 }
 .jquery-comments ul.navigation {
- Play Online at the-impossiblequiz-gg.github.io</title>border-bottom: 2px solid rgba(255, 255, 255, 0.2);
+  border-bottom: 2px solid rgba(255, 255, 255, 0.2);
 }
 .jquery-comments ul.navigation li.active, .jquery-comments ul.navigation li:hover {
- Play Online at the-impossiblequiz-gg.github.io</title>color: unset;
+  color: unset;
 }
 .jquery-comments .textarea-wrapper::before, .jquery-comments .textarea-wrapper::after {
- Play Online at the-impossiblequiz-gg.github.io</title>display: none;
+  display: none;
 }
 .jquery-comments .textarea-wrapper .control-row > span {
- Play Online at the-impossiblequiz-gg.github.io</title>padding: 10px 20px;
- Play Online at the-impossiblequiz-gg.github.io</title>border-radius: 8px;
+  padding: 10px 20px;
+  border-radius: 8px;
 }
 
 /* END COMMENTS */
@@ -567,186 +567,186 @@ ul.category-list-game .cat-item:hover {
 /* BLOG / POST */
 
 .post-title {
- Play Online at the-impossiblequiz-gg.github.io</title>font-size: 25px;
+  font-size: 25px;
 }
 .post-thumb {
- Play Online at the-impossiblequiz-gg.github.io</title>float: right;
- Play Online at the-impossiblequiz-gg.github.io</title>width: 200px;
- Play Online at the-impossiblequiz-gg.github.io</title>overflow: hidden;
- Play Online at the-impossiblequiz-gg.github.io</title>margin-left: 20px;
+  float: right;
+  width: 200px;
+  overflow: hidden;
+  margin-left: 20px;
 }
 .post-thumb img {
- Play Online at the-impossiblequiz-gg.github.io</title>height: 180px;
- Play Online at the-impossiblequiz-gg.github.io</title>max-width: unset;
+  height: 180px;
+  max-width: unset;
 }
 .post-item {
- Play Online at the-impossiblequiz-gg.github.io</title>display: flex;
+  display: flex;
 }
 .post-media {
- Play Online at the-impossiblequiz-gg.github.io</title>width: 100%;
- Play Online at the-impossiblequiz-gg.github.io</title>padding: 20px;
- Play Online at the-impossiblequiz-gg.github.io</title>background: rgba(255, 255, 255, 0.1);
- Play Online at the-impossiblequiz-gg.github.io</title>border-radius: 15px;
- Play Online at the-impossiblequiz-gg.github.io</title>margin-bottom: 25px;
+  width: 100%;
+  padding: 20px;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 15px;
+  margin-bottom: 25px;
 }
 .post-title a {
- Play Online at the-impossiblequiz-gg.github.io</title>color: #fff;
+  color: #fff;
 }
 .post-meta {
- Play Online at the-impossiblequiz-gg.github.io</title>font-style: italic;
- Play Online at the-impossiblequiz-gg.github.io</title>margin-bottom: 5px;
+  font-style: italic;
+  margin-bottom: 5px;
 }
 .page-content {
- Play Online at the-impossiblequiz-gg.github.io</title>margin-top: 40px;
+  margin-top: 40px;
 }
 /* END BLOG / POST */
 
 /* USER PROFILE */
 
 .user-page {
- Play Online at the-impossiblequiz-gg.github.io</title>background: unset;
+  background: unset;
 }
 .user-page .section {
- Play Online at the-impossiblequiz-gg.github.io</title>background-color: rgba(255, 255, 255, 0.1);
+  background-color: rgba(255, 255, 255, 0.1);
 }
 .profile-comment-item {
- Play Online at the-impossiblequiz-gg.github.io</title>border: 0;
- Play Online at the-impossiblequiz-gg.github.io</title>border-top: 1px solid rgba(255, 255, 255, 0.1);
- Play Online at the-impossiblequiz-gg.github.io</title>border-radius: unset;
+  border: 0;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: unset;
 }
 .user-page .comment-text {
- Play Online at the-impossiblequiz-gg.github.io</title>color: #fff;
+  color: #fff;
 }
 .user-page .comment-date.text-secondary {
- Play Online at the-impossiblequiz-gg.github.io</title>color: unset!important;
+  color: unset!important;
 }
 input.form-control {
- Play Online at the-impossiblequiz-gg.github.io</title>margin-bottom: 10px;
+  margin-bottom: 10px;
 }
 
 /* USER PROFILE */
 
 #mobile-back-button {
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>display: none;
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>align-items: center;
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>position: fixed;
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>z-index: 101;
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>top: 100px;
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>left: 0;
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>width: 56px;
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>height: 46px;
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>background: rgb(255, 255, 255);
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>box-shadow: rgb(0 0 0 / 24%) 0px 16px 32px;
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>border-radius: 0px 16px 16px 0px;
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>overflow: hidden;
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>cursor: pointer;
+    display: none;
+    align-items: center;
+    position: fixed;
+    z-index: 101;
+    top: 100px;
+    left: 0;
+    width: 56px;
+    height: 46px;
+    background: rgb(255, 255, 255);
+    box-shadow: rgb(0 0 0 / 24%) 0px 16px 32px;
+    border-radius: 0px 16px 16px 0px;
+    overflow: hidden;
+    cursor: pointer;
 }
 #mobile-back-button i {
- Play Online at the-impossiblequiz-gg.github.io</title>color: #94a2a2;
- Play Online at the-impossiblequiz-gg.github.io</title>font-size: 30px;
- Play Online at the-impossiblequiz-gg.github.io</title>margin-left: 14px;
+  color: #94a2a2;
+  font-size: 30px;
+  margin-left: 14px;
 }
 .btn-left, .btn-right {
- Play Online at the-impossiblequiz-gg.github.io</title>z-index: 1;
+  z-index: 1;
 }
 
 /* LOGIN & REGISTER */
 
 .login-form, .register-form {
- Play Online at the-impossiblequiz-gg.github.io</title>background: rgba(255, 255, 255, 0.1);
+  background: rgba(255, 255, 255, 0.1);
 }
 
 /* */
 
 .mobile-thumb-play img {
- Play Online at the-impossiblequiz-gg.github.io</title>width: 100%;
- Play Online at the-impossiblequiz-gg.github.io</title>opacity: 0.7;
+  width: 100%;
+  opacity: 0.7;
 }
 .mobile-thumb-play {
- Play Online at the-impossiblequiz-gg.github.io</title>background: #000000;
- Play Online at the-impossiblequiz-gg.github.io</title>overflow: hidden;
+  background: #000000;
+  overflow: hidden;
 }
 #mobile-play {
- Play Online at the-impossiblequiz-gg.github.io</title>position: relative;
+  position: relative;
 }
 #mobile-play-btn {
- Play Online at the-impossiblequiz-gg.github.io</title>position: absolute;
- Play Online at the-impossiblequiz-gg.github.io</title>top: 50%;
- Play Online at the-impossiblequiz-gg.github.io</title>left: 50%;
- Play Online at the-impossiblequiz-gg.github.io</title>font-size: 100px;
- Play Online at the-impossiblequiz-gg.github.io</title>color: #fff;
- Play Online at the-impossiblequiz-gg.github.io</title>transform: translate(-50%, -50%);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  font-size: 100px;
+  color: #fff;
+  transform: translate(-50%, -50%);
 }
 .game-container {
- Play Online at the-impossiblequiz-gg.github.io</title>overflow: hidden;
- Play Online at the-impossiblequiz-gg.github.io</title>border-radius: 18px;
+  overflow: hidden;
+  border-radius: 18px;
 }
 .color-red {
- Play Online at the-impossiblequiz-gg.github.io</title>background: rgba(238, 19, 39, 0.4);
+  background: rgba(238, 19, 39, 0.4);
 }
 .top-3 {
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>text-align: center;
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>margin-bottom: 40px;
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>margin-top: 40px;
+    text-align: center;
+    margin-bottom: 40px;
+    margin-top: 40px;
 }
 .top-user {
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>display: inline-block;
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>text-align: center;
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>margin: 15px;
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>position: relative;
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>white-space: nowrap;
+    display: inline-block;
+    text-align: center;
+    margin: 15px;
+    position: relative;
+    white-space: nowrap;
 }
 .top-number {
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>width: 40px;
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>color: #fff;
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>border-radius: 50%;
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>position: absolute;
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>left: 20%;
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>transform: translate(-50%, -50%);
+    width: 40px;
+    color: #fff;
+    border-radius: 50%;
+    position: absolute;
+    left: 20%;
+    transform: translate(-50%, -50%);
 }
 .top-avatar img {
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>border-radius: 50%;
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>display: block;
+    border-radius: 50%;
+    display: block;
 }
 .rank-1 .top-avatar img {
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>width: 120px;
+    width: 120px;
 }
 .leaderboard-table {
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>clear: both;
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>display: block;
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>width: 100%;
+    clear: both;
+    display: block;
+    width: 100%;
 }
 .leaderboard-row {
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>background: rgba(255, 255, 255, 0.1);
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>padding: 10px;
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>border-radius: 15px;
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>margin-top: 15px;
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>white-space: nowrap;
+    background: rgba(255, 255, 255, 0.1);
+    padding: 10px;
+    border-radius: 15px;
+    margin-top: 15px;
+    white-space: nowrap;
 }
 .leaderboard-cell {
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>vertical-align: middle;
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>padding: 0 10px;
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>display: inline-block;
+    vertical-align: middle;
+    padding: 0 10px;
+    display: inline-block;
 }
 .leaderboard-user-avatar img {
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>width: 50px;
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>border-radius: 50%;
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>display: block;
+    width: 50px;
+    border-radius: 50%;
+    display: block;
 }
 .leaderboard-cell.username {
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>font-weight: bold;
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>min-width: 160px;
+    font-weight: bold;
+    min-width: 160px;
 }
 .leaderboard-cell.rank {
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>float: right;
+    float: right;
 }
 .level-badge {
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>float: left;
- Play Online at the-impossiblequiz-gg.github.io</title> Play Online at the-impossiblequiz-gg.github.io</title>margin-right: 10px;
+    float: left;
+    margin-right: 10px;
 }
 .top-player-wrapper {
- Play Online at the-impossiblequiz-gg.github.io</title>margin-bottom: 20px;
+  margin-bottom: 20px;
 }
 .gamelist-widget .list-game {
- Play Online at the-impossiblequiz-gg.github.io</title>margin-bottom: 20px;
+  margin-bottom: 20px;
 }

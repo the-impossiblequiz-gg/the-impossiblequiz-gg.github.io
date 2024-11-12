@@ -1,23 +1,23 @@
 @font-face {
- Play Online at the-impossiblequiz-gg.github.io</title>font-display: block;
- Play Online at the-impossiblequiz-gg.github.io</title>font-family: "bootstrap-icons";
- Play Online at the-impossiblequiz-gg.github.io</title>src: url("./fonts/bootstrap-icons.woff2?24e3eb84d0bcaf83d77f904c78ac1f47") format("woff2"),
+  font-display: block;
+  font-family: "bootstrap-icons";
+  src: url("./fonts/bootstrap-icons.woff2?24e3eb84d0bcaf83d77f904c78ac1f47") format("woff2"),
 url("./fonts/bootstrap-icons.woff?24e3eb84d0bcaf83d77f904c78ac1f47") format("woff");
 }
 
 .bi::before,
 [class^="bi-"]::before,
 [class*=" bi-"]::before {
- Play Online at the-impossiblequiz-gg.github.io</title>display: inline-block;
- Play Online at the-impossiblequiz-gg.github.io</title>font-family: bootstrap-icons !important;
- Play Online at the-impossiblequiz-gg.github.io</title>font-style: normal;
- Play Online at the-impossiblequiz-gg.github.io</title>font-weight: normal !important;
- Play Online at the-impossiblequiz-gg.github.io</title>font-variant: normal;
- Play Online at the-impossiblequiz-gg.github.io</title>text-transform: none;
- Play Online at the-impossiblequiz-gg.github.io</title>line-height: 1;
- Play Online at the-impossiblequiz-gg.github.io</title>vertical-align: -.125em;
- Play Online at the-impossiblequiz-gg.github.io</title>-webkit-font-smoothing: antialiased;
- Play Online at the-impossiblequiz-gg.github.io</title>-moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-family: bootstrap-icons !important;
+  font-style: normal;
+  font-weight: normal !important;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  vertical-align: -.125em;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 .bi-123::before { content: "\f67f"; }
