@@ -1,1 +1,3 @@
 User-agent: *
+Disallow:
+Sitemap: https://the-impossiblequiz-gg.github.io/sitemap.xml
